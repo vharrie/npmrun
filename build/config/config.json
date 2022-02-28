@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf3A0E8Cd7f9f8dF5d17B9349A9C8fE698e7857C5",
+  "SCAN_LINK": "https://etherscan.io/address/0xf3A0E8Cd7f9f8dF5d17B9349A9C8fE698e7857C5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Kittyfam",
+  "SYMBOL": "KFAM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 19000000000000000,
+  "DISPLAY_COST": 0.019,
+  "GAS_LIMIT": 99814,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kittyfam",
+  "SHOW_BACKGROUND": false
+}
